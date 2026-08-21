@@ -1,5 +1,4 @@
 # 💫 About Me:
-
 🎓 Engineering Student  <br>💻 Learning Python, DSA & CUDA  <br>🤖 Interested in AI, Trading Automation & High-Performance Computing  <br>📈 Building projects daily and improving 1% every day  <br>🚀 Exploring Deep Learning, GPU Computing, and AI Systems
 
 # 💻 Tech Stack:
