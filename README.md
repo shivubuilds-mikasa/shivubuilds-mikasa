@@ -107,8 +107,6 @@ I enjoy turning ideas into working products and learning by building — from ba
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivubuilds-mikasa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&card_width=430&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivubuilds-mikasa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=330&bg_color=0d1117&title_color=a78bfa"/>
 
 <img src="https://streak-stats.demolab.com/?user=shivubuilds-mikasa&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="70%"/>
 
