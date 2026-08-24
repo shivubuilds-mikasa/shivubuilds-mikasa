@@ -82,9 +82,11 @@ I'm especially interested in the intersection of **software engineering, artific
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivubuilds-mikasa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shivubuilds-mikasa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
 
 <img src="https://streak-stats.demolab.com/?user=shivubuilds-mikasa&theme=tokyonight&hide_border=true" width="49%"/>
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivubuilds-mikasa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="45%"/>
 
