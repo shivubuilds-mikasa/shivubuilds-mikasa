@@ -110,7 +110,6 @@ I enjoy turning ideas into working products and learning by building — from ba
 
 <img src="https://streak-stats.demolab.com/?user=shivubuilds-mikasa&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivubuilds-mikasa&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=f472b6&point=ffffff" width="95%"/>
 
 </div>
 
